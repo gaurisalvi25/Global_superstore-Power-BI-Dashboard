@@ -73,4 +73,16 @@ The objective of this project is to identify revenue trends, profit performance,
 <img width="1420" height="798" alt="Screenshot 2026-02-21 171957" src="https://github.com/user-attachments/assets/a71e80de-1e63-48d4-b0cb-1c271b1622be" />
 <img width="1416" height="799" alt="Screenshot 2026-02-21 171937" src="https://github.com/user-attachments/assets/270c55f9-9dbf-47a0-84a8-0307caec0e2c" />
 
+## 🚀 Skills Demonstrated
+- Data Cleaning
+- Data Modeling
+- Advanced DAX Calculations
+- Interactive Dashboard Design
+- Business Insight Generation
+- KPI Visualization
 
+---
+
+## 📬 Contact
+Created by: Gauri Salvi  
+B.E. AIML | Data Analytics & Cybersecurity Enthusiast
